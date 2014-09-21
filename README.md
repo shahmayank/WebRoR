@@ -22,24 +22,7 @@ Each participant needs to bring their own laptop with Ruby on Rails Virtual Mach
 * Nothing else just show your presence.
 
 
-## Course Overview
-
-We will dive into the nuances of JavaScript, how prototypal inheritance compares to classical inheritance, and how this can be used to build dynamic and complex web applications.  Modern tools like jQuery and BackboneJS will be discussed, but students will learn the building blocks of these frameworks and after this course be able to understand what is happening under the hood.  The focus will be on development for browsers, though most applies to other systems like Node.js, Phonegap, etc.  Topics covered include:
-
-* Encapsulation, closures and scope
-* Classical vs. prototypal inheritance
-* The event loop
-* AJAX and JSONP
-    * local
-    * remote (e.g. Foursquare)
-* Creating MVC-style models (a'la Backbone.js) from scratch
-* Test- and Pseudocode-Driven Development
-
-Topics will be demonstrated through live-code examples/slides, available at [advanced-js.github.io/deck](http://advanced-js.github.io/deck/).  Additional exercises will completed in-class.
-
-See [this interview](http://masterstreet.wordpress.com/2013/09/05/interview-with-aidan-feldman-instructor-at-nyu-scps/) for more background.
-
-## Homework/Projects
+## Problem Statement
 
 All assignments are listed within the [Course Outline](#course-outline).
 
@@ -61,44 +44,28 @@ Feedback will be given in the pull request, so please respond with your thoughts
 
 Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.  For exercises with multiple levels/versions, leave a new comment in the pull request saying "Level X finished!" before pushing commits for the next level.
 
-### Requirements
 
-These apply to real life, as well.
-
-* [Travis CI](http://docs.travis-ci.com) build should pass, which includes:
-    * All HTML files should pass [W3C Markup Validation](http://validator.w3.org)
-    * All written JS should pass [JSHint](http://jshint.com)
-* Must apply "good programming style" learned in class
-    * Functions should be "short" (see [Sandi Metz's rules for developers](http://robots.thoughtbot.com/post/50655960596/sandi-metz-rules-for-developers))
-    * Optimize for readability
-    * For projects, use Object-Oriented Programming
-* Bonus points for:
-    * [Automated tests](#test-frameworks)
-    * Creativity (as long as requirements are fulfilled)
 
 ## Course Outline
 
 ### Class 1
 
-1. Introduction
+1. Introduction to Open Source
     * Install GitHub for [Mac](https://mac.github.com) or [Windows](https://windows.github.com)
     * Sign up for GitHub
-1. Student checklist:
-    * Access [NYU Classes](https://newclasses.nyu.edu) page, where grades will be posted
-        * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
-1. Explain how slides work
-    * Look at [helpers.js](https://github.com/advanced-js/deck/blob/gh-pages/assets/helpers.js)
-1. Get through `echo_exercise` slide
-1. GitHub workflow
-    * Walk through [workflow](#workflow)
-    * Create pull request on [students repository](https://github.com/advanced-js/students)
-1. Get through "self_executing_functions" slide
+1. Version Control System:
+    * GitHub 101
+    * Git Basics
+1. Navigate file structures using the command line
+1. Web Development Tools
 
-#### Homework
 
-* Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-* Finish up and submit [echo](https://github.com/advanced-js/echo) and [countdown](https://github.com/advanced-js/countdown) exercises
-* Complete [blink](https://github.com/advanced-js/blink) exercise
+#### Preparation
+
+* Open Source [blink](http://opensource.com/resources/what-open-source)
+* [Create a Github Account](https://github.com/)
+* [Git in 15 minutes](http://try.github.io/)
+
 
 ### Class 2
 
@@ -122,54 +89,7 @@ These apply to real life, as well.
 
 ### Class 3
 
-1. Code review Memory
-1. Finish slides
-1. Developer Tools walkthrough
-    * Elements (HTML)
-    * Console (JS)
-    * Scripts (JS)
-1. Cover AJAX/JSONP ([files](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax))
-    * Network tab in Developer Tools
-
-#### Homework
-
-* [OOP exercise V3](https://github.com/advanced-js/oop#v3)
-* [Memory V3](https://github.com/advanced-js/memory#v3)
-
-### Class 4
-
-1. Add tests to namespace
-    * Build up a test framework from scratch
-    * Show QUnit
-1. Getting Serious example
-    * Quick intro to Backbone.js
-        * [Boilerplate](http://jsbin.com/IGivato/1/edit?html,js,output)
-        * Click the Box [example app](http://jsbin.com/IGivato/5/edit?css,js,output)
-        * TDD?
-1. Multiple async
-    * [Promises](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax/promises)/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
-    * Possibly show [async](https://github.com/caolan/async#control-flow-1) library?
-
-#### Homework
-
-* [Mashup](https://github.com/advanced-js/mashup)
-
-### Class 5
-
-1. Present and code review Mashup projects
-1. Possible topics (vote?):
-    * Node.js
-        * Server "Hello World" (from [Node.js homepage](http://nodejs.org/))
-            * [HTTP module docs](http://nodejs.org/api/http.html)
-        * HTTP requests
-            * [Status codes](http://pretty-rfc.herokuapp.com/RFC2616#status.codes)
-            * Headers
-        * CommonJS?
-    * [Regular Expressions](https://github.com/advanced-js/deck/tree/gh-pages/demos/regex.html)
-        * Convert live input, e.g. link Twitter handles from a textarea
-    * [Code Retreat](http://coderetreat.org/facilitating/structure-of-a-coderetreat) – possible "problems":
-        * [Game of Life](http://coderetreat.org/gol)
-        * Tic Tac Toe
+* Content to be added soon!!!
 
 ## Pairing Tips
 
