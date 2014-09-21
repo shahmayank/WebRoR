@@ -1,7 +1,7 @@
 # Web Programming in Ruby on Rails
 
 ***See this README with a table of contents [here](http://documentup.com/aruzmeister/webror).***
-***[My Blog](aruzmeister.github.io)***
+***[My Blog](https://aruzmeister.github.io)***
 
 * **Aruz Parajuli**, [arujparajuli@gmail.com](mailto:arujparajuli@gmail.com)
 * **Need help?**
