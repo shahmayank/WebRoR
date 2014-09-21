@@ -1,11 +1,11 @@
 # Web Programming in Ruby on Rails
 
 ***See this README with a table of contents [here](http://documentup.com/aruzmeister/webror).***
+***[My Blog](aruzmeister.github.io)***
 
-* **Instructor:** Aruz Parajuli, [arujparajuli@gmail.com](mailto:arujparajuli@gmail.com)
+* **Aruz Parajuli**, [arujparajuli@gmail.com](mailto:arujparajuli@gmail.com)
 * **Need help?**
-   * Look through and create [issues](https://github.com/aruzmeister/webror/issues)
-   * Office Hours on Sundays during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://www.meetup.com/hackerhours/events/calendar/) for schedule)
+   * Having problem look through and create [issues](https://github.com/aruzmeister/webror/issues)
    * [Email](mailto:arujparajuli@gmail.com) or Give a ring +91-9651539960 for 1-on-1 help, or to set up a time to meet
 
 ## Course Description
@@ -14,7 +14,7 @@ You’ve got a head full of ideas when it comes to creating a web app, but where
 
 Each participant needs to bring their own laptop with Ruby on Rails Virtual Machince Installed. 
 
-[Click Here](https://docs.google.com/forms/d/1JW7dYQJLu6hLBv-GjH8pA9OL3JGTEpY1VkFXF2IBtSw/viewform) to register for Webster(Ruby on Rails)
+[Click Here](https://docs.google.com/forms/d/1JW7dYQJLu6hLBv-GjH8pA9OL3JGTEpY1VkFXF2IBtSw/viewform) to register for Webster (Ruby on Rails)
 
 ## Installation 
 * Download and Install Ruby on Rails VM [Click Here](http://172.31.100.144/) for live portal.
@@ -29,8 +29,8 @@ Each participant needs to bring their own laptop with Ruby on Rails Virtual Mach
 
 ## Problem Statement
 
-[Problem Statement 1](https://github.com/aruzmeister/webror/blob/master/RubyonRails1.pdf?raw=true) 
-[Problem Statement 2](https://github.com/aruzmeister/webror/blob/master/RubyonRails2.pdf?raw=true)
+* [Problem Statement 1](https://github.com/aruzmeister/webror/blob/master/RubyonRails1.pdf?raw=true) 
+* [Problem Statement 2](https://github.com/aruzmeister/webror/blob/master/RubyonRails2.pdf?raw=true)
 
 Else you can get it from Google Doc here:-
 All assignments are listed [Click Here](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDEzODM2MTE4MjA4OTM4OTIzMjkBMTQ4MDI0MDUzNjg1OTUyNzAwOTEBWTdfYjYyS3c5Y2NKATAuMQEBdjI).
@@ -92,15 +92,15 @@ Webster6 and Webster7 are Ruby on Rails Problem statement.
 
 ## Getting Involved in Open Source
 
-[How to Contribute to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/index.html)
-[Google Summer of Code](https://developers.google.com/open-source/soc/)
-[Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
-[Get Goodies for Open Source Contribution](http://www.lookingforpullrequests.com/)
-[24 Pull Requests](http://24pullrequests.com/)
-[BountySource](https://www.bountysource.com/)
-[Code for America](http://www.codeforamerica.org/)
-[CodeMontage](https://www.codemontage.com/)
-[CodeTriage](http://www.codetriage.com/)
+* [How to Contribute to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/index.html)
+* [Google Summer of Code](https://developers.google.com/open-source/soc/)
+* [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
+* [Get Goodies for Open Source Contribution](http://www.lookingforpullrequests.com/)
+* [24 Pull Requests](http://24pullrequests.com/)
+* [BountySource](https://www.bountysource.com/)
+* [Code for America](http://www.codeforamerica.org/)
+* [CodeMontage](https://www.codemontage.com/)
+* [CodeTriage](http://www.codetriage.com/)
 
 
 
@@ -120,11 +120,9 @@ This class assumes you are confident with this material, but in case you need a 
 * [Learn Ruby Fun Way](http://www.rubyinside.com/media/poignant-guide.pdf)
 
 
-
-
 #### HTML/CSS/JS Live Execution.
 
-* [JS Bin](http://jsbin.com/) (recommended)
+* [JS Bin](http://jsbin.com/)
 * [bl.ocks.org](http://bl.ocks.org/)
 * [Cloud9](https://c9.io/)
 * [CodePen](http://codepen.io/pen/)
@@ -146,9 +144,10 @@ Please respect the terms of use and/or license of any code you find, and if you 
 
 ### Contact
 
-Aruz Parajuli Email:-[arujparajuli@gmail.com](mailto:arujparajuli@gmail.com)
-[Webster Cyberquest](webster.cyberquest2k14@gmail.com) 
-[Facebook Page](https://www.facebook.com/cyberquest.avishkar)
+* Aruz Parajuli Email:-[arujparajuli@gmail.com](mailto:arujparajuli@gmail.com)
+* [My Blog](aruzmeister.github.io)*
+* [Webster Cyberquest](webster.cyberquest2k14@gmail.com) 
+* [Facebook Page](https://www.facebook.com/cyberquest.avishkar)
 
 
 ### License
