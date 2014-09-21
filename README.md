@@ -16,17 +16,23 @@ Each participant needs to bring their own laptop with Ruby on Rails Virtual Mach
 
 [Click Here](https://docs.google.com/forms/d/1JW7dYQJLu6hLBv-GjH8pA9OL3JGTEpY1VkFXF2IBtSw/viewform) to register for Webster(Ruby on Rails)
 
+## Installation 
+* Download and Install Ruby on Rails VM [Click Here](http://172.31.100.144/) for live portal.
+* Every user are requested to go through [Blog Post](http://aruzmeister.github.io/2014/09/19/setup-ruby-on-rails-box/) about Configuration and Installation in Linux Machine  
 
 ## Prerequisites
 
 
 * Basic knowledge of HTML, and at least basics of CSS.
-* Download and Install Ruby on Rails.[Click Here](http://172.31.100.144/) for live portal.  
 * Nothing else just show your presence.
 
 
 ## Problem Statement
 
+[Problem Statement 1](https://github.com/aruzmeister/webror/blob/master/RubyonRails1.pdf?raw=true) 
+[Problem Statement 2](https://github.com/aruzmeister/webror/blob/master/RubyonRails2.pdf?raw=true)
+
+Else you can get it from Google Doc here:-
 All assignments are listed [Click Here](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDEzODM2MTE4MjA4OTM4OTIzMjkBMTQ4MDI0MDUzNjg1OTUyNzAwOTEBWTdfYjYyS3c5Y2NKATAuMQEBdjI).
 Webster6 and Webster7 are Ruby on Rails Problem statement.
 
@@ -36,8 +42,6 @@ Webster6 and Webster7 are Ruby on Rails Problem statement.
 ### Class 1
 
 1. Introduction to Open Source
-    * Install GitHub for [Mac](https://mac.github.com) or [Windows](https://windows.github.com)
-    * Sign up for GitHub
 1. Version Control System:
     * GitHub 101
     * Git Basics
@@ -51,28 +55,27 @@ Webster6 and Webster7 are Ruby on Rails Problem statement.
 * Text editor, such as [Sublime Text](http://www.sublimetext.com/)
 * [Open Source](http://opensource.com/resources/what-open-source)
 * [Create a Github Account](https://github.com/)
-* [Git in 15 minutes](http://try.github.io/)
-
+* [Learn Git in 15 minutes](http://try.github.io/)
+* Configuration of Git through Proxy [Click Here](http://aruzmeister.github.io/2014/09/19/setup-ruby-on-rails-box/)
 
 ### Class 2
 
-1. Look at various approaches for `countdown()`
+1. Configure and install Ruby and Rails
+1. Learn the basics of the Ruby language
     * Show recursive solution
-1. Pair program to build [Memory v1](https://github.com/advanced-js/memory) (see [pairing tips](#pairing-tips))
-1. Cover OOP, though "oop_inheritance" slide
-    * [Encapsulation example](http://jsbin.com/baqopu/1/edit?css,js,output)
-    * Look at [Backbone.js Events](http://backbonejs.org/docs/backbone.html)
-1. Cover automated testing
-    * Examples in QUnit
-        * [Simple](http://jsbin.com/AqENEjo/1/edit?html,js,output)
-        * [Classes](http://jsbin.com/edoRoGU/1/edit?js,output)
+1. Explain the MVC structure and differentiate between models, views, and controllers.
+1. Build a simple Rails app from scratch
+
+1. Setup and manage databases with migrations
+1. Learn how to leverage ActiveRecord with associations, validations, and callbacks
+1. Understand resources and REST, and how to use them in a Rails application
     * [Other frameworks](#test-frameworks)
 
-#### Homework
+#### Preparation
 
-* Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* [OOP exercise](https://github.com/advanced-js/oop), through V2
-* [Memory v2](https://github.com/advanced-js/memory#v2) (individual)
+* [Learn ruby in 10 hours](http://www.codecademy.com/en/tracks/ruby) 
+* [Learn Rails Easily](http://www.railstutorial.org/book/_single-page)
+* [Free Coursera Rails Video Course](https://www.coursera.org/course/webapplications)
 
 ### Class 3
 
@@ -87,15 +90,23 @@ Webster6 and Webster7 are Ruby on Rails Problem statement.
 * You can use Bootstrap framework & Tools mention in the page here.
 
 
+## Getting Involved in Open Source
+
+[How to Contribute to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/index.html)
+[Google Summer of Code](https://developers.google.com/open-source/soc/)
+[Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
+[Get Goodies for Open Source Contribution](http://www.lookingforpullrequests.com/)
+[24 Pull Requests](http://24pullrequests.com/)
+[BountySource](https://www.bountysource.com/)
+[Code for America](http://www.codeforamerica.org/)
+[CodeMontage](https://www.codemontage.com/)
+[CodeTriage](http://www.codetriage.com/)
+
+
+
+
 ## Resources
 
-### Required Reading
-
-* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-* [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* https://twitter.com/necolas/status/291978260433219584
-* http://afeld.me/nerdery/1742468
 
 ### Beginner Materials
 
@@ -106,13 +117,12 @@ This class assumes you are confident with this material, but in case you need a 
 
 ### Recommended Reading
 
-* [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) by @darcyclarke (for testing yourself)
+* [Learn Ruby Fun Way](http://www.rubyinside.com/media/poignant-guide.pdf)
 
 
 
 
-
-#### HTML/CSS/JS Sandboxes
+#### HTML/CSS/JS Live Execution.
 
 * [JS Bin](http://jsbin.com/) (recommended)
 * [bl.ocks.org](http://bl.ocks.org/)
@@ -122,20 +132,24 @@ This class assumes you are confident with this material, but in case you need a 
 * [Plunker](http://plnkr.co/)
 * [rawgithub.com](http://rawgithub.com/)
 
-#### Frameworks
+#### Frameworks & Tools
 
-* Framework comparison: [TodoMVC](http://todomvc.com)
-* [Testing](https://coderwall.com/p/ntbixw)
+* Framework: [Ruby On Rails](http://rubyonrails.org/)
+* Text Editor: [Sublime Text](http://www.sublimetext.com/)
 
 
+### Note
 
-https://www.facebook.com/cyberquest.avishkar
-
-### Instructor
-
-Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers.  I won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
+Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers.  I won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time.
 
 Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
+
+### Contact
+
+Aruz Parajuli Email:-[arujparajuli@gmail.com](mailto:arujparajuli@gmail.com)
+[Webster Cyberquest](webster.cyberquest2k14@gmail.com) 
+[Facebook Page](https://www.facebook.com/cyberquest.avishkar)
+
 
 ### License
 
