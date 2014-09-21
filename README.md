@@ -14,36 +14,21 @@ You’ve got a head full of ideas when it comes to creating a web app, but where
 
 Each participant needs to bring their own laptop with Ruby on Rails Virtual Machince Installed. 
 
+[Click Here](https://docs.google.com/forms/d/1JW7dYQJLu6hLBv-GjH8pA9OL3JGTEpY1VkFXF2IBtSw/viewform) to register for Webster(Ruby on Rails)
+
 
 ## Prerequisites
 
 
 * Basic knowledge of HTML, and at least basics of CSS.
+* Download and Install Ruby on Rails.[Click Here](http://172.31.100.144/) for live portal.  
 * Nothing else just show your presence.
 
 
 ## Problem Statement
 
-All assignments are listed within the [Course Outline](#course-outline).
-
-### Workflow
-
-1. Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js))
-1. Clone the repository to your computer
-1. Open the `index.html` file in a browser and open the Developer Tools
-1. Modify the files to complete your solution
-1. Refresh the `index.html` page to see the results, and repeat
-1. Make sure all of your code is committed
-1. Push/sync up to GitHub
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository by the due time (generally the start of the following class)
-1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
-
-When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes.
-
-Feedback will be given in the pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request as the work is still in-progress if you are stuck and want to ask a question – just mention `@afeld` with the question to make sure I know to look at it sooner.
-
-Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.  For exercises with multiple levels/versions, leave a new comment in the pull request saying "Level X finished!" before pushing commits for the next level.
-
+All assignments are listed [Click Here](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDEzODM2MTE4MjA4OTM4OTIzMjkBMTQ4MDI0MDUzNjg1OTUyNzAwOTEBWTdfYjYyS3c5Y2NKATAuMQEBdjI).
+Webster6 and Webster7 are Ruby on Rails Problem statement.
 
 
 ## Course Outline
@@ -62,7 +47,9 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 
 #### Preparation
 
-* Open Source [blink](http://opensource.com/resources/what-open-source)
+* Laptop preferably a Ubuntu or Linux Mint but Windows with VM welcomed.
+* Text editor, such as [Sublime Text](http://www.sublimetext.com/)
+* [Open Source](http://opensource.com/resources/what-open-source)
 * [Create a Github Account](https://github.com/)
 * [Git in 15 minutes](http://try.github.io/)
 
@@ -91,14 +78,14 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 
 * Content to be added soon!!!
 
-## Pairing Tips
+## Rules
 
-* Three people is possible, but two works best
-* Agree on an editor and environment that you're both comfortable with
-* The person who's less experienced/comfortable should have more keyboard time
-* Switch who's "driving" regularly
-* Make sure to save the code and send it to both people
-* [JSFiddle](http://jsfiddle.net) supports live collaborating
+* This is a team event of maximum 3 members.
+* You can choose only one problem statement.
+* For students of B.Tech 2nd,3rd year and MCA 1st,2nd year, PHP has to be used at back-end for the first five problem statements and Ruby on Rails has to be used at back-end for the last two problem statements.
+* There is no limit on space/size of the website.
+* You can use Bootstrap framework & Tools mention in the page here.
+
 
 ## Resources
 
@@ -115,53 +102,15 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 This class assumes you are confident with this material, but in case you need a brush-up...
 
 * Codecademy – [JavaScript](http://www.codecademy.com/tracks/javascript) and [jQuery](http://www.codecademy.com/tracks/jquery)
-* [Eloquent JavaScript](http://eloquentjavascript.net/index.html) by Marijn Haverbeke, Chapters 1-5
-* see also – [Other Lists](#other-lists)
+* [Teach Yourself to Code](http://teachyourselftocode.com/javascript)
 
 ### Recommended Reading
 
 * [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) by @darcyclarke (for testing yourself)
-* [JavaScript Best Practices](http://www.thinkful.com/learn/javascript-best-practices-1/)
-* [JavaScript Patterns](http://shichuan.github.com/javascript-patterns/) by @shichuan (thanks @iandrewfuchs)
-* [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752) by Stoyan Stephanov
-* [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X/) by Alex MacCaw
-* [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by Douglas Crockford
-* [Learning Advanced JavaScript slides](http://ejohn.org/apps/learn/) by John Resig
-* [Static Web Apps](http://www.staticapps.org/)
-* [Test-Driven JavaScript Development](http://www.amazon.com/Test-Driven-JavaScript-Development-Developers-Library/dp/0321683919) by Christian Johansen
-* [The JavaScript Interpreter, Interpreted](http://www.slideshare.net/marthakelly/js-interpreter-interpreted) by Martha Girdler [(video)](http://www.youtube.com/watch?v=iSxNCYcPAFk)
 
-#### Specific Topics
 
-* [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html) by Douglas Crockford
-* [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) by Ben Alman (thanks @michaelBenin)
-* [HTML5 Rocks slides](http://slides.html5rocks.com/)
-* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
 
-#### Other Lists
 
-* [JS: The Right Way](http://www.jstherightway.org/) (an overview of the JS landscape)
-* [Code School](http://www.codeschool.com/paths/javascript)
-* Thoughtbot's [Javascript Trail Map](https://learn.thoughtbot.com/javascript)
-* [How To Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
-* [Superhero.js](http://superherojs.com)
-* [Teach Yourself to Code](http://teachyourselftocode.com/javascript)
-
-### Tools
-
-* code validation: [JSLint](http://jslint.com) / [JSHint](http://jshint.com)
-* debugging: [Chrome Developer Tools](https://developer.chrome.com/devtools/index) ([tutorial](https://developer.chrome.com/extensions/tut_debugging)) / [Firebug](http://getfirebug.com/)
-* sharing code snippets: [gist.github.com](https://gist.github.com/)
-* asking questions: [Stack Overflow](http://stackoverflow.com/)
-
-#### GitHub
-
-* Git and GitHub
-    * [Official GitHub Help](https://help.github.com/)
-    * [Recommended resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
-* GitHub Pages
-    * [Official site](http://pages.github.com/)
-    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
 #### HTML/CSS/JS Sandboxes
 
@@ -178,26 +127,9 @@ This class assumes you are confident with this material, but in case you need a 
 * Framework comparison: [TodoMVC](http://todomvc.com)
 * [Testing](https://coderwall.com/p/ntbixw)
 
-### Reference
 
-* [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript) and [Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
-* [w3schools](http://www.w3schools.com/jsref/default.asp)
-* [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do) by David Flanagan
 
-### More Examples
-
-* [map/reduce](http://jsbin.com/ojapAsUR/2/edit?js) (in [Underscore](http://underscorejs.org/#map))
-
-## Grading
-
-* Class Participation – 30%
-* Homework – 70%
-
-## Statements on Plagiarism
-
-### SCPS
-
-> New York University takes plagiarism very seriously and regards it as a form of fraud.  The definition of plagiarism that has been adopted by the School of Continuing and Professional Studies is as follows: "Plagiarism is presenting someone else's work as though it were one's own.  More specifically, plagiarism is to present as one's own words quoted without quotation marks from another writer; a paraphrased passage from another writer’s work; or facts or ideas gathered, organized, and reported by someone else, orally and/or in writing.  Since plagiarism is a matter of fact, not of the student's intention, it is crucial that acknowledgement of the sources be accurate and complete.  Even where there is not a conscious intention to deceive, the failure to make appropriate acknowledgement constitutes plagiarism.  Penalties for plagiarism range from failure for a paper or course to dismissal from the University.
+https://www.facebook.com/cyberquest.avishkar
 
 ### Instructor
 
