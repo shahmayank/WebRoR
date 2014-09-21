@@ -32,8 +32,7 @@ Each participant needs to bring their own laptop with Ruby on Rails Virtual Mach
 * [Problem Statement 1](https://github.com/aruzmeister/webror/blob/master/RubyonRails1.pdf?raw=true) 
 * [Problem Statement 2](https://github.com/aruzmeister/webror/blob/master/RubyonRails2.pdf?raw=true)
 
-Else you can get it from Google Doc here:-
-All assignments are listed [Click Here](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDEzODM2MTE4MjA4OTM4OTIzMjkBMTQ4MDI0MDUzNjg1OTUyNzAwOTEBWTdfYjYyS3c5Y2NKATAuMQEBdjI).
+Else you can get it from [Google Doc here](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDEzODM2MTE4MjA4OTM4OTIzMjkBMTQ4MDI0MDUzNjg1OTUyNzAwOTEBWTdfYjYyS3c5Y2NKATAuMQEBdjI).
 Webster6 and Webster7 are Ruby on Rails Problem statement.
 
 
@@ -145,7 +144,7 @@ Please respect the terms of use and/or license of any code you find, and if you 
 
 ### Contact
 
-* Aruz Parajuli Email:-[arujparajuli@gmail.com](mailto:arujparajuli@gmail.com)
+* Aruz Parajuli [arujparajuli@gmail.com](mailto:arujparajuli@gmail.com)
 * [My Blog](aruzmeister.github.io)
 * [Webster Cyberquest](webster.cyberquest2k14@gmail.com) 
 * [Facebook Page](https://www.facebook.com/cyberquest.avishkar)
