@@ -118,6 +118,7 @@ This class assumes you are confident with this material, but in case you need a 
 ### Recommended Reading
 
 * [Learn Ruby Fun Way](http://www.rubyinside.com/media/poignant-guide.pdf)
+* [Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
 
 
 #### HTML/CSS/JS Live Execution.
