@@ -1,6 +1,6 @@
 # Web Programming in Ruby on Rails
 
-***See this README with a table of contents [here](http://documentup.com/advanced-js/syllabus).***
+***See this README with a table of contents [here](http://documentup.com/aruzmeister/webror).***
 
 * **Instructor:** Aruz Parajuli, [arujparajuli@gmail.com](mailto:arujparajuli@gmail.com)
 * **Need help?**
@@ -10,18 +10,17 @@
 
 ## Course Description
 
-Learn best practices in JavaScript in this intensive, five-session course. Topics include data encapsulation, closures, binding, inheritance, and name spacing. Discover some of the lesser-known, yet useful, features of the language, such as how to debug JavaScript problems on different browsers and improve performance. Create interactive webpages using third-party JavaScript libraries.
+You’ve got a head full of ideas when it comes to creating a web app, but where do you start? In this 3 session workshop, you’ll learn Ruby, Rails, GIT, Open Source and Cloud Computing basics that will get you moving the right direction in your app development process. In this workshop, we'll take you through building a complete web application using Ruby on Rails. By the end of the day, you'll have an application on the internet that connects to a database and reads and writes information.
 
-Computers are provided in the lab, though you are encouraged to bring a laptop for in-class exercises.
+Each participant needs to bring their own laptop with Ruby on Rails Virtual Machince Installed. 
+
 
 ## Prerequisites
 
-* [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](http://samsultan.com/javascript)) or equivalent
-* Understanding of variables, data types, control flow, and basic function usage in JavaScript - see [Beginner Materials](#beginner-materials)
-* Strong intermediate knowledge of HTML, and at least basics of CSS
-* Basic jQuery knowledge (DOM interaction) is a plus
 
-These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts.
+* Basic knowledge of HTML, and at least basics of CSS.
+* Nothing else just show your presence.
+
 
 ## Course Overview
 
