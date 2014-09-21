@@ -55,6 +55,7 @@ Webster6 and Webster7 are Ruby on Rails Problem statement.
 * Text editor, such as [Sublime Text](http://www.sublimetext.com/)
 * [Open Source](http://opensource.com/resources/what-open-source)
 * [Create a Github Account](https://github.com/)
+* [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 * [Learn Git in 15 minutes](http://try.github.io/)
 * Configuration of Git through Proxy [Click Here](http://aruzmeister.github.io/2014/09/19/setup-ruby-on-rails-box/)
 
@@ -112,7 +113,7 @@ Webster6 and Webster7 are Ruby on Rails Problem statement.
 
 This class assumes you are confident with this material, but in case you need a brush-up...
 
-* Codecademy – [JavaScript](http://www.codecademy.com/tracks/javascript) and [jQuery](http://www.codecademy.com/tracks/jquery)
+* [Codecademy](http://www.codecademy.com/tracks/javascript) and [jQuery](http://www.codecademy.com/tracks/jquery)
 * [Teach Yourself to Code](http://teachyourselftocode.com/javascript)
 
 ### Recommended Reading
@@ -132,8 +133,8 @@ This class assumes you are confident with this material, but in case you need a 
 
 #### Frameworks & Tools
 
-* Framework: [Ruby On Rails](http://rubyonrails.org/)
-* Text Editor: [Sublime Text](http://www.sublimetext.com/)
+* Framework:- [Ruby On Rails](http://rubyonrails.org/)
+* Text Editor:- [Sublime Text](http://www.sublimetext.com/)
 
 
 ### Note
@@ -145,11 +146,11 @@ Please respect the terms of use and/or license of any code you find, and if you 
 ### Contact
 
 * Aruz Parajuli Email:-[arujparajuli@gmail.com](mailto:arujparajuli@gmail.com)
-* [My Blog](aruzmeister.github.io)*
+* [My Blog](aruzmeister.github.io)
 * [Webster Cyberquest](webster.cyberquest2k14@gmail.com) 
 * [Facebook Page](https://www.facebook.com/cyberquest.avishkar)
 
 
 ### License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> and all other materials under https://github.com/advanced-js are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> and all other materials under https://github.com/aruzmeister/WebRoR are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
