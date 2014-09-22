@@ -1,6 +1,6 @@
 # Web Programming in Ruby on Rails
 
-***See this README with a table of contents [here](http://documentup.com/aruzmeister/webror).***
+***See this README with a table of contents [here](http://webonrails.tk).***
 ***[My Blog](https://aruzmeister.github.io)***
 
 * **Aruz Parajuli**, [arujparajuli@gmail.com](mailto:arujparajuli@gmail.com)
@@ -12,11 +12,11 @@
 
 You’ve got a head full of ideas when it comes to creating a web app, but where do you start? In this 3 session workshop, you’ll learn Ruby, Rails, GIT, Open Source and Cloud Computing basics that will get you moving the right direction in your app development process. In this workshop, we'll take you through building a complete web application using Ruby on Rails. By the end of the day, you'll have an application on the internet that connects to a database and reads and writes information.
 
-Each participant needs to bring their own laptop with Ruby on Rails Virtual Machince Installed. 
+Each participant needs to bring their own laptop with Ruby on Rails Virtual Machince Installed.
 
 [Click Here](https://docs.google.com/forms/d/1JW7dYQJLu6hLBv-GjH8pA9OL3JGTEpY1VkFXF2IBtSw/viewform) to register for Webster (Ruby on Rails)
 
-## Installation 
+## Installation
 * Download and Install Ruby on Rails VM [Click Here](http://172.31.100.144/) for live portal.
 * Every user are requested to go through [Blog Post](http://aruzmeister.github.io/2014/09/19/setup-ruby-on-rails-box/) about Configuration and Installation in Linux Machine  
 
@@ -29,7 +29,7 @@ Each participant needs to bring their own laptop with Ruby on Rails Virtual Mach
 
 ## Problem Statement
 
-* [Problem Statement 1](https://github.com/aruzmeister/webror/blob/master/RubyonRails1.pdf?raw=true) 
+* [Problem Statement 1](https://github.com/aruzmeister/webror/blob/master/RubyonRails1.pdf?raw=true)
 * [Problem Statement 2](https://github.com/aruzmeister/webror/blob/master/RubyonRails2.pdf?raw=true)
 
 Else you can get it from [Google Doc here](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDEzODM2MTE4MjA4OTM4OTIzMjkBMTQ4MDI0MDUzNjg1OTUyNzAwOTEBWTdfYjYyS3c5Y2NKATAuMQEBdjI).
@@ -69,11 +69,11 @@ Webster6 and Webster7 are Ruby on Rails Problem statement.
 1. Setup and manage databases with migrations
 1. Learn how to leverage ActiveRecord with associations, validations, and callbacks
 1. Understand resources and REST, and how to use them in a Rails application
-    
+
 
 #### Preparation
 
-* [Learn ruby in 10 hours](http://www.codecademy.com/en/tracks/ruby) 
+* [Learn ruby in 10 hours](http://www.codecademy.com/en/tracks/ruby)
 * [Learn Rails Easily](http://www.railstutorial.org/book/_single-page)
 * [Free Coursera Rails Video Course](https://www.coursera.org/course/webapplications)
 
@@ -147,7 +147,7 @@ Please respect the terms of use and/or license of any code you find, and if you 
 
 * Aruz Parajuli [arujparajuli@gmail.com](mailto:arujparajuli@gmail.com)
 * [My Blog](aruzmeister.github.io)
-* [Webster Cyberquest](webster.cyberquest2k14@gmail.com) 
+* [Webster Cyberquest](webster.cyberquest2k14@gmail.com)
 * [Facebook Page](https://www.facebook.com/cyberquest.avishkar)
 
 
