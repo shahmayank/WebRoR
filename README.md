@@ -69,7 +69,7 @@ Webster6 and Webster7 are Ruby on Rails Problem statement.
 1. Setup and manage databases with migrations
 1. Learn how to leverage ActiveRecord with associations, validations, and callbacks
 1. Understand resources and REST, and how to use them in a Rails application
-    * [Other frameworks](#test-frameworks)
+    
 
 #### Preparation
 
